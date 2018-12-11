@@ -1,0 +1,10 @@
+91
+par1 par2 9 20
+par1 par5 90 10
+par1 par3 30 20
+par2 par3 23 40
+par2 par1 1 10
+par3 par4 11 5
+par3 par5 34 1
+par5 par6 10 10
+par6 par7 0 3
